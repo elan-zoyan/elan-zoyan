@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zoyan / Antor Hosssen
+# Hi, I'm Zoyan / Antor Hossen
 
 ### Software Engineer · Backend Engineer
 
