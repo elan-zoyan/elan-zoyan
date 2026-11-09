@@ -19,12 +19,8 @@ Building scalable software, high-performance backend systems, and exploring Mach
 I'm a Software Developer I am interesting in high-performance backend
 systems, and intelligent software**.
 
-My technology interests include **TypeScript, JavaScript, React, Next.js, Rust, Axum, FastAPI, PostgreSQL, MongoDB, Redis, Docker, and Linux**.
-
 Currently, I'm focusing on becoming a stronger **Software Engineer** by going deeper into **Rust, Backend Engineering, System Design, Distributed Systems, and Frontend Development**.
-
 Long-term, I'm expanding my knowledge of **Python, Data Science, Machine Learning, Deep Learning, and AI Engineering**.
-
 I enjoy learning deeply, building real-world projects, and understanding how software works under the hood.
 
 </td>
