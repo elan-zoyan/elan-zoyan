@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+ <div align="center">
 
 # Hi, I'm Zoyan / Antor Hossen
 
@@ -6,17 +6,18 @@
 
 Building scalable software, high-performance backend systems, and exploring Machine Learning and Artificial Intelligence.
 
-\</div>
+</div>
 
-\<br>
+<br>
 
-\<table>
-\<tr>
-\<td width="60%" valign="top">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## About Me
 
-I'm a Software Developer passionate about building **modern web applications, high-performance backend systems, and intelligent software**.
+I'm a Software Developer I am interesting in high-performance backend
+systems, and intelligent software**.
 
 My technology interests include **TypeScript, JavaScript, React, Next.js, Rust, Axum, FastAPI, PostgreSQL, MongoDB, Redis, Docker, and Linux**.
 
@@ -26,15 +27,15 @@ Long-term, I'm expanding my knowledge of **Python, Data Science, Machine Learnin
 
 I enjoy learning deeply, building real-world projects, and understanding how software works under the hood.
 
-\</td>
+</td>
 
-\<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
-\<img src="[https://i.ibb.co.com/XfdNxSwZ/mejwh.gif](https://i.ibb.co.com/XfdNxSwZ/mejwh.gif)" width="100%" />
+<img src="https://i.ibb.co.com/PGnycSkK/High-Five-Ai-GIF.gif" width="100%" alt="Coding Animation" />
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,7 +45,7 @@ I enjoy learning deeply, building real-world projects, and understanding how sof
 Languages   TypeScript · JavaScript · Rust · Python
 Backend     Rust · Axum · Tokio · FastAPI
 Frontend    React · Next.js · Tailwind CSS
-Database    PostgreSQL · SQL .Redis
+Database    PostgreSQL · SQL · Redis · MongoDB
 AI / ML     NumPy · Pandas · Scikit-learn · PyTorch
 Tools       Git · GitHub Actions · Docker · Linux
 ```
@@ -59,10 +60,10 @@ Tools       Git · GitHub Actions · Docker · Linux
 
 ## Engineering Mindset
 
-\<div align="center">
+<div align="center">
 
 ```text
 learn → build → understand → improve → repeat
 ```
 
-\</div>
+</div>
